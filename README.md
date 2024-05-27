@@ -2,7 +2,8 @@
 
 ![image](https://github.com/0xMxnTy/rokudigital/assets/166342298/d29515fc-4378-4066-bea8-40ca21c2078f)
 
-`Welcome to **RokuDigital**, the ultimate CLI tool for controlling your Roku TV! Easily send commands to your Roku device using an interactive command prompt. 🚀`
+## Intro 🚪
+Welcome to **RokuDigital**, the ultimate CLI tool for controlling your Roku TV! Easily send commands to your Roku device using an interactive command prompt. 🚀
 
 ## Features ✨
 
